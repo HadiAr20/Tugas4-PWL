@@ -1,5 +1,5 @@
-# The Movies Python Pyramid
-Tugas 4  Pemrograman Web Lanjut
+# Tugas 4 - Pemrograman Web Lanjut
+Muhammad Hadi Arsa - 120140150 - RB
 
 ## Cara Menggunakan Project ini
 - install pip, python dan mysql terlebih dahulu
